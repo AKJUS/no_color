@@ -309,6 +309,7 @@ color by default via `NO_COLOR`.
 | [Planck](https://planck-repl.org/) | Stand-alone ClojureScript REPL | [2019-05-19 / 2.23.0](https://github.com/planck-repl/planck/releases/tag/2.23.0) |
 | [Poe the Poet](https://github.com/nat-n/poethepoet) | A task runner that works well with poetry or uv | [2023-09-23 / 0.23.0](https://github.com/nat-n/poethepoet/releases/tag/v0.23.0) |
 | [Poetry](https://github.com/python-poetry/poetry) | Dependency management and packaging in Python | [2021-05-21 / 1.2.0a1](https://github.com/python-poetry/poetry/releases/tag/1.2.0a1) |
+| [Portable](https://github.com/Kraftland/portable) | Fast, private, modern sandbox designed for desktop Linux | [2026-05-31 / 17.0.alpha.3](https://github.com/Kraftland/portable/commit/33b50ecdc07b0cfa58ea8797bbba8f87c8b8af17) |
 | [PowerShell](https://microsoft.com/PowerShell) | Shell and scripting language | [2021-11-08 / 7.2.0](https://docs.microsoft.com/powershell/scripting/whats-new/what-s-new-in-powershell-72) |
 | [procs](https://github.com/c-blake/procs) | Process and system query and formatting | [2019-11-18 / 0.4.0](https://github.com/c-blake/procs/commit/7d19fc184f8c29481dd5a4c4d5d26c671c2c0a4c) |
 | [pulumi](https://pulumi.io/) | Programming-language-based IaC framework | [2018-06-04 / 0.14.3](https://github.com/pulumi/pulumi/pull/1594) |
